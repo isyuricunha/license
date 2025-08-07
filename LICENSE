@@ -1,4 +1,36 @@
-                    GNU GENERAL PUBLIC LICENSE
+Yuri GPLv2 Anti-AI License
+Version 1.0 – July 2025
+Based on the GNU General Public License v2
+
+This software is licensed under the GNU General Public License version 2,
+with the following additional condition:
+
+***AI/ML Usage Restriction Clause***
+
+The use of this software, in whole or in part, is strictly prohibited for any of the following purposes:
+
+1. Training, fine-tuning, or augmenting machine learning or artificial intelligence models, including but not limited to:
+   - Large Language Models (LLMs)
+   - Computer vision systems
+   - Audio, image, or video recognition systems
+   - Reinforcement learning agents
+   - Any neural network–based or statistical modeling system
+
+2. Embedding this software, its output, or its components in any AI or ML system or pipeline.
+
+3. Automated data extraction (scraping, embedding, vectorization, or analysis) intended for use in AI/ML contexts.
+
+4. Use by any organization, project, or entity that develops, trains, or deploys AI/ML systems, whether for commercial or non-commercial purposes.
+
+Violation of this clause constitutes a breach of license and immediately terminates all rights granted under this license.
+
+All other terms of the GNU General Public License version 2 remain in effect.
+
+---
+
+For reference, the original GNU General Public License v2 text follows:
+
+                  GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
