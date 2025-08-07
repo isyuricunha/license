@@ -1,6 +1,6 @@
 # License Repository
 
-This repository contains the **LGPLv2.1 Anti-AI License**, a custom license based on the GNU Lesser General Public License version 2.1 with an added clause that prohibits the use of the licensed code for artificial intelligence (AI) or machine learning (ML) purposes.
+This repository contains the **Yuri LGPLv2.1 Anti-AI License**, a custom license based on the GNU Lesser General Public License version 2.1 with an added clause that prohibits the use of the licensed code for artificial intelligence (AI) or machine learning (ML) purposes.
 
 You can find the full license text in the [`LICENSE`](./LICENSE) file.
 
